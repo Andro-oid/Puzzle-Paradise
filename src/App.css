@@ -1,0 +1,18 @@
+
+.sidebar{
+  margin-top: 0%;
+  float: left;
+}
+
+.nav{
+  width: 150px;
+  height: 700px;  
+}
+
+.navbar-brand{
+  padding-top: 10px;
+}
+
+.nav-link:hover{
+  background-color: gray;
+}
